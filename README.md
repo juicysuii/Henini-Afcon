@@ -1,4 +1,4 @@
-# HENINI AFCON Chatbot
+# HENINI AFCON ThinkAI Hackathon
 
 ## Introduction
 
