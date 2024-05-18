@@ -1,4 +1,4 @@
-HENINI AFCON Chatbot
+#HENINI AFCON Chatbot
 
 Introduction
 HENINI AFCON is an intelligent chatbot developed during the ThinkAI Hackathon. It aims to assist football fans in planning their trips to various cities in Morocco for the African Cup of Nations (AFCON) 2025. The chatbot provides comprehensive information about the cities, transportation options, accommodations, activities, safety tips, and other essential details to ensure a well-planned and enjoyable experience for tourists.
