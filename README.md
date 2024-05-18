@@ -17,29 +17,27 @@ HENINI AFCON is an intelligent chatbot developed during the ThinkAI Hackathon. I
 
 1. **Initial Questions** : When you first interact with HENINI AFCON, you'll be asked a series of questions to personalize your experience. These questions may include:
 
-* Your name
-* The teams you want to watch
-* Whether you have already booked a hotel or not
-* Whether you have purchased tickets for the match you want to watch
+    * Your name
+    * The teams you want to watch
+    * Whether you have already booked a hotel or not
+    * Whether you have purchased tickets for the match you want to watch
 
-2. **Trip Planning** : Based on your responses, HENINI AFCON will generate a customized trip plan for you. This plan will include:
+3. **Trip Planning** : Based on your responses, HENINI AFCON will generate a customized trip plan for you. This plan will include:
 
-* City recommendations based on the matches you want to watch
-* Transportation options to and within the chosen cities
-* Accommodation suggestions tailored to your preferences
-* Activities and attractions to explore during your stay
-* Safety tips and essential information for a smooth travel experience
+      * City recommendations based on the matches you want to watch
+      * Transportation options to and within the chosen cities
+      * Accommodation suggestions tailored to your preferences
+      * Activities and attractions to explore during your stay
+      * Safety tips and essential information for a smooth travel experience
 
-3. **Chatbot Customization**: HENINI AFCON provides a chat interface where you can further customize your trip plan. You can ask additional questions, make specific requests, or seek more detailed information about any aspect of your trip.
+4. **Chatbot Customization**: HENINI AFCON provides a chat interface where you can further customize your trip plan. You can ask additional questions, make specific requests, or seek more detailed information about any aspect of your trip.
 
-4. **Feedback** : We value your feedback! If you have any suggestions or encounter any issues while using HENINI AFCON, please don't hesitate to share your thoughts. Your input will help us improve the chatbot and enhance the user experience for future users.
+5. **Feedback** : We value your feedback! If you have any suggestions or encounter any issues while using HENINI AFCON, please don't hesitate to share your thoughts. Your input will help us improve the chatbot and enhance the user experience for future users.
 
-Feel free to adjust the wording or add more details as needed.
-
-## Contributors
-Youssef ABERKANE
-Oumaima BENDIDI
-Oumayma BENNOUNA
+## Contributors 
+* Youssef ABERKANE
+* Oumaima BENDIDI
+* Oumayma BENNOUNA
 
 
 ## Acknowledgments
