@@ -13,6 +13,12 @@ HENINI AFCON is an intelligent chatbot developed during the ThinkAI Hackathon. I
 + **Safety Tips** : Receive valuable safety tips and guidance to ensure a secure and hassle-free travel experience.
 ***Future Upgrades***: The project is designed to be scalable and can be extended to cover other events, such as the FIFA World Cup 2030, or any future events hosted by Morocco.
 
+## APIs Used
+HENINI AFCON utilizes the following APIs to provide accurate and up-to-date information:
+
++ Google Directions API: This API is used to calculate and provide directions between locations, ensuring that users have the best routes and transportation options for their travels.
++ Google Geocoding API: This API is used to convert addresses into geographic coordinates, which are essential for mapping and location-based services within the chatbot.
+
 ## How to Use
 
 1. **Initial Questions** : When you first interact with HENINI AFCON, you'll be asked a series of questions to personalize your experience. These questions may include:
@@ -20,7 +26,7 @@ HENINI AFCON is an intelligent chatbot developed during the ThinkAI Hackathon. I
     * Your name
     * The teams you want to watch
     * Whether you have already booked a hotel or not
-    * Whether you have purchased tickets for the match you want to watch
+    * Which match you want to watch
 
 3. **Trip Planning** : Based on your responses, HENINI AFCON will generate a customized trip plan for you. This plan will include:
 
