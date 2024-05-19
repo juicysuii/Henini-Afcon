@@ -13,11 +13,37 @@ HENINI AFCON is an intelligent chatbot developed during the ThinkAI Hackathon. I
 + **Safety Tips** : Receive valuable safety tips and guidance to ensure a secure and hassle-free travel experience.
 ***Future Upgrades***: The project is designed to be scalable and can be extended to cover other events, such as the FIFA World Cup 2030, or any future events hosted by Morocco.
 
-## APIs Used
+## APIs Used / Data Collected
 HENINI AFCON utilizes the following APIs to provide accurate and up-to-date information:
 
-+ Google Directions API: This API is used to calculate and provide directions between locations, ensuring that users have the best routes and transportation options for their travels.
-+ Google Geocoding API: This API is used to convert addresses into geographic coordinates, which are essential for mapping and location-based services within the chatbot.
+   * **Google Directions API**: This API is used to calculate and provide directions between locations, ensuring that users have the best routes and transportation options for their travels.
+   * **Google Geocoding API**: This API is used to convert addresses into geographic coordinates, which are essential for mapping and location-based services within the chatbot.
+
+The following websites were used to collect data about activities and safety in Casablanca:
+
++ [Things to do in Casablanca](https://northafricadreamin.com/things-to-do-in-casablanca/) 
++ [Tourist Attractions in Casablanca](https://www.planetware.com/tourist-attractions-/casablanca-mar-c-cas.htm)
++ [Fun Things to Do in Casablanca](https://wanderlog.com/list/geoCategory/849176/fun-things-to-do-in-casablanca-fun-attractions-and-activities)
++ [Top Things to Do in Casablanca](https://www.journalofnomads.com/things-to-do-in-casablanca-morocco/)
++ [The Top 10 Things to Do and See in Casablanca](https://theculturetrip.com/africa/morocco/articles/the-top-10-things-to-do-and-see-in-casablanca")
++ [Is Casablanca Safe?](https://www.moroccotoursagency.com/is-casablanca-safe/)
++ [Safety in Casablanca](https://stayhere.ma/en/blog-en/2023/05/05/is-casablanca-safe-2/)
+
+## Models Used
+To generate text and provide responses, HENINI AFCON uses the following models:
+
+1. **Hugging Face Endpoints**:
+
+      + meta-llama-3-8b-instruct-tt
+      + meta-llama-3-8b-instruct-xcn
+  
+      Initially, we used these Hugging Face models to generate text. However, both models had a limitation in terms of output tokens, which affected the completeness of the responses.
+
+2. **Replicate Model**:
+
+     + **meta-llama-3-70b-instruct**
+
+     To overcome the token limitation issue, we switched to the Replicate **model meta-llama-3-70b-instruct**. This model provided a more robust solution, enabling longer and more detailed responses without the previous token limitation.
 
 ## How to Use
 
